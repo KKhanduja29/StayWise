@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": "948f",
+      "fname": "kashish",
+      "email": "kashishkhanduja29@gmail.com",
+      "psw": "123456",
+      "phn": "9926416516"
+    },
+    {
+      "id": "e8da",
+      "fname": "Mitali Dixit",
+      "email": "mitalidixit2003@gmail.com",
+      "psw": "123456",
+      "phn": "9630515511"
+    },
+    {
+      "id": "66e9",
+      "fname": "Kashish Khanduja",
+      "email": "kashishkhanduja29@gmail.com",
+      "psw": "123456",
+      "phn": "123456"
+    }
+  ]
+}

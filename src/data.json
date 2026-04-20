@@ -1,0 +1,229 @@
+{
+  "hotels": [
+    {
+      "id": "1",
+      "hname": "SayaJi Hotel",
+      "rating": "5 Star",
+      "location": "Indore",
+      "country": "India",
+      "price": "13000",
+      "img": "src/assets/sayaji.jpg"
+    },
+    {
+      "id": "2",
+      "hname": "Raddison Hotel",
+      "rating": "5 Star",
+      "location": "Indore",
+      "country": "India",
+      "price": "15000",
+      "img": "src/assets/raddison.jpeg"
+    },
+    {
+      "id": "3",
+      "hname": "WoW Hotel",
+      "rating": "4 Star",
+      "location": "Indore",
+      "country": "India",
+      "price": "5000",
+      "img": "src/assets/wow.jpeg"
+    },
+    {
+      "id": "4",
+      "hname": "Marriott Hotel",
+      "rating": "5 Star",
+      "location": "Indore",
+      "country": "India",
+      "price": "15000",
+      "img": "src/assets/marr.jpg"
+    },
+    {
+      "id": "5",
+      "hname": "The Park Indore",
+      "rating": "5 Star",
+      "location": "Indore",
+      "country": "India",
+      "price": "10000",
+      "img": "src/assets/park.jpg"
+    },
+    {
+      "id": "6",
+      "hname": "Solitaire Hotel & Resort",
+      "rating": "4 Star",
+      "location": "Ujjain",
+      "country": "India",
+      "price": "4000",
+      "img": "src/assets/ujjain.webp"
+    },
+    {
+      "id": "7",
+      "hname": "Rudraksh Club & Resorts",
+      "rating": "4 Star",
+      "location": "Ujjain",
+      "country": "India",
+      "price": "5000",
+      "img": "src/assets/ujjain2.webp"
+    },
+    {
+      "id": "8",
+      "hname": "Hotel Rudhav Palace",
+      "rating": "4 Star",
+      "location": "Ujjain",
+      "country": "India",
+      "price": "1500",
+      "img": "src/assets/ujjain3.webp"
+    },
+    {
+      "id": "9",
+      "hname": "Hotel Mittal Paradise",
+      "rating": "4 Star",
+      "location": "Ujjain",
+      "country": "India",
+      "price": "2500",
+      "img": "src/assets/ujjain4.webp"
+    },
+    {
+      "id": "10",
+      "hname": "Hotel Park Palace",
+      "rating": "4 Star",
+      "location": "Ujjain",
+      "country": "India",
+      "price": "4500",
+      "img": "src/assets/ujjain5.avif"
+    },
+    {
+      "id": "11",
+      "hname": "Aurika, Mumbai International Airport",
+      "rating": "4 Star",
+      "location": "Mumbai",
+      "country": "India",
+      "price": "5500",
+      "img": "src/assets/mum1.jpg"
+    },
+    {
+      "id": "12",
+      "hname": "The Taj Mahal Tower, Mumbai",
+      "rating": "5 Star",
+      "location": "Mumbai",
+      "country": "India",
+      "price": "15000",
+      "img": "src/assets/mum2.jpg"
+    },
+    {
+      "id": "13",
+      "hname": "Trident Nariman Point",
+      "rating": "5 Star",
+      "location": "Mumbai",
+      "country": "India",
+      "price": "15000",
+      "img": "src/assets/mum3.jpg"
+    },
+    {
+      "id": "14",
+      "hname": "The Oberoi Mumbai",
+      "rating": "5 Star",
+      "location": "Mumbai",
+      "country": "India",
+      "price": "17000",
+      "img": "src/assets/mum4.jpg"
+    },
+    {
+      "id": "15",
+      "hname": "Grand Hyatt Mumbai Hotel and Residences",
+      "rating": "5 Star",
+      "location": "Mumbai",
+      "country": "India",
+      "price": "20000",
+      "img": "src/assets/mum5.jpg"
+    },
+    {
+      "id": "16",
+      "hname": "Novotel New Delhi City Centre",
+      "rating": "5 Star",
+      "location": "Delhi",
+      "country": "India",
+      "price": "20000",
+      "img": "src/assets/delhi1.jpg"
+    },
+    {
+      "id": "17",
+      "hname": "Taj Palace, New Delhi",
+      "rating": "5 Star",
+      "location": "Delhi",
+      "country": "India",
+      "price": "10000",
+      "img": "src/assets/delhi2.jpg"
+    },
+    {
+      "id": "18",
+      "hname": "The Leela Ambience Convention Hotel Delhi",
+      "rating": "5 Star",
+      "location": "Delhi",
+      "country": "India",
+      "price": "13000",
+      "img": "src/assets/delhi3.jpg"
+    },
+    {
+      "id": "19",
+      "hname": "Hilton Jaipur",
+      "rating": "5 Star",
+      "location": "Jaipur",
+      "country": "India",
+      "price": "3000",
+      "img": "src/assets/jaipur.jpg"
+    },
+    {
+      "id": "20",
+      "hname": "Hyatt Regency Jaipur Mansarovar",
+      "rating": "5 Star",
+      "location": "Jaipur",
+      "country": "India",
+      "price": "25000",
+      "img": "src/assets/jaipur2.jpg"
+    },
+    {
+      "id": "21",
+      "hname": "Taj Devi Ratn Resort & Spa, Jaipur",
+      "rating": "5 Star",
+      "location": "Jaipur",
+      "country": "India",
+      "price": "9000",
+      "img": "src/assets/jaipur3.jpg"
+    },
+    {
+      "id": "22",
+      "hname": "Keys Prima by Lemon Tree Hotels, Kota, Rajasthan",
+      "rating": "5 Star",
+      "location": "Kota",
+      "country": "India",
+      "price": "9000",
+      "img": "src/assets/kota.jpg"
+    },
+    {
+      "id": "23",
+      "hname": "Townhouse Jhalawar Road Gumanpura Formerly Rockland",
+      "rating": "5 Star",
+      "location": "Kota",
+      "country": "India",
+      "price": "9000",
+      "img": "src/assets/kota2.jpg"
+    },
+    {
+      "id": "24",
+      "hname": "Hotel Blue Sapphire",
+      "rating": "5 Star",
+      "location": "Kota",
+      "country": "India",
+      "price": "4000",
+      "img": "src/assets/kota3.jpg"
+    },
+    {
+      "id": "25",
+      "hname": "Lotus Ananta Elite Kota",
+      "rating": "5 Star",
+      "location": "Kota",
+      "country": "India",
+      "price": "7000",
+      "img": "src/assets/kota4.jpg"
+    }
+  ]
+}
